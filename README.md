@@ -1,6 +1,6 @@
 
 
-<body>
+  <body>
   <h1>Privacy Policy</h1>
 
   <p>This Privacy Policy explains how we ("we", "our", or "us") collect, use, and share information when you install and use our Shopify app ("the App") to compress and watermark product images on your Shopify store.</p>
